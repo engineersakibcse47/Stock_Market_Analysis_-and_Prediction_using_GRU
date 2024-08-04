@@ -12,7 +12,7 @@ I'll be answering the following questions along the way:
 - How much value do we put at risk by investing in a particular stock?
 - How can we attempt to predict future stock behavior? (Predicting the closing price stock price of APPLE inc using GRU)
 
-## Data Load and Exploration
+## Data Exploration and Preprocessing
 The dataset used in this project includes historical stock prices with features such as open, high, low, close prices, and trading volume. Data preprocessing steps include handling missing values, normalizing the data, and creating sequences of data points to be used as inputs for the GRU model.
 
 ```python
